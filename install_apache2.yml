@@ -18,5 +18,5 @@
 
   - name: install php support for apache
     apt:
-      name: php7.4
+      name: php5
       state: latest
